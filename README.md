@@ -2,4 +2,4 @@
 
 ## what was done
 
-&#9679;## HTML and CSS used
+&#9679; ## HTML and CSS used
