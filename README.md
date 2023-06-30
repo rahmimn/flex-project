@@ -8,4 +8,4 @@
 
 ## screen
 
-![](green plants.gif)
+![](greenplants.gif)
