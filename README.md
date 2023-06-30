@@ -2,5 +2,4 @@
 
 ## what was done
 
-&#9679;
-
+&#9679; HTML and CSS used
